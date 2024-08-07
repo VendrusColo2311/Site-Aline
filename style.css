@@ -1,12 +1,5 @@
 p {
-    color: rgb(255, 0, 234);
-  }
-  <style>
-  p {
-  
-   text-align: center;
+    color: rgb(13, 22, 123);
+    text-align: center;
    font-size: 16px;
-   color: pink;
-  
   }
-  </style>
